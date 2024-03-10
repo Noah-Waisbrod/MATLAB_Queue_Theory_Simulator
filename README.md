@@ -1,7 +1,9 @@
 # MATLAB_Queue_Theory_Simulator
 ## Info:
 Authors: Noah Waisbrod
+
 Course: ELEC 373 - Computer Networks
+
 Date: Feb 5, 2024
 
 ## Description
